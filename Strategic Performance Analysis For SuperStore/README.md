@@ -10,6 +10,11 @@ View my dashboard here: https://public.tableau.com/views/DataVisualizationProjec
 ## Profits & Losses 
 **Subcategory + Region:** The two biggest profit centers are Copiers in the West region and Chairs in the East region, while the biggest loss-makers are Binders in the Central region and Tables in the East. 
 
+<p align="center">
+  <img src="Visuals/Subcategory%20+%20Region%20-%20Part%201.png" width="450">
+  <img src="Visuals/Subcategory%20+%20Region%20-%20Part%202.png" width="450">
+</p>
+
 I analyzed profit performance by grouping subcategories with regions to identify which product-location combinations generate the highest profits and losses. 
 
 **Product Profit:** Analysis of the profit data revealed a natural breakpoint around $1,000 in losses, where the decline becomes noticeably steeper. This threshold highlights 20 products that account for the largest and most consistent losses. 
