@@ -30,11 +30,16 @@ To improve financial performance, the SuperStore should prioritize discontinuing
 ### Advertising  
 Analysis of average monthly profit by state identifies Indiana in October, Vermont in November, and Washington in March as the three strongest state–month combinations for advertising. Based on a return on ad spend threshold of 1:5, the maximum recommended advertising spend is one-fifth of the average profit for each period: $128.63 for Indiana in October, $119.19 for Vermont in November, and $104.27 for Washington in March.
 
-
-
+![Alt text](Visuals/Top%20Target%20Advertising%20State%20&%20Month%20.png)
 ### Return Rate Analysis
 Analysis of product return rates shows that eight products have a 100% return rate: Acco Glide Clips, Avery 500, Bush Saratoga Collection, Canon Color ImageCLASS, Cisco SPA 501G IP Phone, Hewlett-Packard Deskjet F4180, Okinawa B401 Printer, and Zebra GK420t Direct Thermal Printer.
 
+![Alt text](Visuals/Product%20Returns.png)
+
 Additionally, return rate analysis identifies the five customers with the highest return rates as Hilary Holden, Roland Murray, Sandra Glassco, Joni Blumstein, and Ted Butterfield.
 
-When comparing average profit and average return rate by category, Technology clearly outperforms the other categories. Technology generates an average profit of $81.02, compared to approximately $12 for Furniture and $18 for Office Supplies, while showing only a 2% higher return rate. This visual contrast demonstrates that Technology delivers substantially higher profitability without a proportionate increase in returns, supporting the decision to continue doing business in this category while reevaluating the others.
+![Alt text](Visuals/Customer%20Returns.png)
+
+When comparing average profit and average return rate by category, Technology clearly outperforms the other categories. Technology generates an average profit of $81.02, compared to approximately $12 for Furniture and $18 for Office Supplies, while showing only a 2% higher return rate. This visual contrast demonstrates that Technology delivers substantially higher profitability without a proportionate increase in returns, supporting the decision to continue doing business in this category while reevaluating the others. 
+
+<img src="Visuals/Average%20Profit%20&%20Returns%20per%20Category.png" width="700">
