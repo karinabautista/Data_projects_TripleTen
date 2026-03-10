@@ -5,7 +5,7 @@ By Karina Bautista
 A visual analysis of profit, return rates, and advertising performance to guide strategic business decisions.
 
 ## Tableau Public Link
-View my dashboard here: https://public.tableau.com/views/DataVisualizationProjectSuperstorePerformanceAnalysis_17699941677000/SubcategoryRegion?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+View my dashboard here: https://public.tableau.com/views/Sprint5Project_17713552686020/MonitoringReturns?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Total Sales & Returns
 Returns in this dashboard are measured using return rate (units returned ÷ units sold), which allows for consistent comparison across products, sub-categories, and regions regardless of sales volume. This makes return rate the most effective metric for identifying items that may be underperforming or creating customer dissatisfaction.
