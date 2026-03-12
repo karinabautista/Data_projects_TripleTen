@@ -23,3 +23,13 @@ An Excel-based analysis of website user behavior, focusing on conversion funnels
 | Retention Rates |	Cohorts defined by the first purchase month. Monthly retention calculated as % of users making repeat purchases relative to the original cohort size. |
 
 ## Visualizations
+### Conversion Funnel
+<br><img src="images/conversion-funnel.png" width="700">
+
+### Retention Rates
+<br><img src="images/retention-rates.png" width="700">
+
+### Next Steps / Recommendations
+- Investigate why initial site visits convert at only 10% and explore ways to encourage users to progress to the cart.
+- Focus retention strategies on cohorts with faster decay, e.g., through promotions, email reminders, or loyalty programs.
+- Consider tracking additional metrics (session duration, product views) to better understand user behavior leading to conversion.
