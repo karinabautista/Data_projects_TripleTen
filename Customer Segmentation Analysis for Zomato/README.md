@@ -31,9 +31,9 @@ To support customer segmentation, several calculated fields were created in Tabl
 fields were used to measure purchasing behavior and categorize customers based on their
 activity. Customers were segmented into behavioral groups, including:
 
-- No Orders (users with no purchase history)
-- One-Time Customers (customers with exactly one order)
-- Repeat Customers (customers with multiple orders)
+- **No Orders** (users with no purchase history)
+- **One-Time Customers** (customers with exactly one order)
+- **Repeat Customers** (customers with multiple orders)
 
 Additionally, an “Orders per Customer” metric was created to measure purchase frequency at
 the individual customer level. This field was used to evaluate repeat behavior and identify
@@ -41,9 +41,9 @@ high-value customers based on order volume.
 
 Segmentation in this project was primarily based on:
 
-- Demographics (age and gender)
-- Purchase frequency / repeat behavior
-- Customer activity over time
+- **Demographics** (age and gender)
+- **Purchase frequency / repeat behavior**
+- **Customer activity over time**
 
 These preparation steps and calculated fields allowed the dashboard to accurately reflect
 customer behavior and support meaningful segmentation analysis.
@@ -65,6 +65,8 @@ These metrics provide an initial view of customer demographics and purchasing be
 support segmentation based on age and purchase frequency, which can help identify high-value
 customers and inform targeted engagement strategies.
 
+![Alt txt](images/Customer_Overview.png)
+
 ---
 
 ### Customer Demographics: Gender
@@ -73,6 +75,8 @@ The customer base is comprised of 42.8% Female and 57.2% Male. Given a fairly ba
 distribution across genders, these insights suggest that engagement strategies should target
 both groups to maximize reach and retention. Gender can also be used as a segmentation
 dimension to tailor campaigns, promotions, or personalized offers to each group.
+
+![Alt txt](images/Customer_Demographics_%20Gender.png)
 
 ---
 
@@ -88,6 +92,8 @@ Beyond age 25, customer counts gradually decline, with a smaller increase around
 before dropping sharply at 33. This suggests that tailored campaigns for older age groups could
 help expand engagement beyond the primary younger segment.
 
+![Alt txt](images/Customer_Demographics_%20Age_Distribution.png)
+
 ---
 
 ### Purchasing Trends Over Time
@@ -99,6 +105,8 @@ While there is evidence that many customers place repeat orders, the overall tre
 less engagement over time. This suggests that while a core base of repeat customers exists,
 additional strategies may be needed to encourage continued ordering and retention,
 particularly for customers who have lapsed.
+
+![Alt txt](images/Purchasing_Trends_Over_Time.png)
 
 ---
 
@@ -116,6 +124,8 @@ Segmenting customers by purchasing frequency allows Zomato to:
 - Identify high-value, repeat customers for loyalty programs or personalized offers
 - Re-engage one-time customers with promotions or incentives
 - Understand potential churn among customers who haven’t yet made a purchase
+
+<img src="images/Purchasing_Frequency.png" alt="Alt txt" width="500">
 
 ---
 
@@ -152,24 +162,24 @@ customer retention should be a key focus.
 
 Based on these findings, the following recommendations are proposed:
 
-- Strengthen Retention Strategies  
+- **Strengthen Retention Strategies**  
   Since repeat customers make up a significant portion of the customer base,
   implementing loyalty programs, personalized offers, or rewards systems could help
   maintain and increase engagement.
 
-- Re-engage One-Time Customers  
+- **Re-engage One-Time Customers**  
   Target customers who have only ordered once with follow-up promotions, discounts, or
   reminders to encourage additional purchases.
 
-- Convert Non-Purchasing Users  
+- **Convert Non-Purchasing Users**  
   Customers who have not yet placed an order represent a key growth opportunity.
   Introductory offers or first-order incentives may help convert these users into active customers.
 
-- Target Key Demographics  
+- **Target Key Demographics**  
   With the majority of customers falling within the 22–25 age range, marketing campaigns
   can be tailored to this demographic to maximize engagement and effectiveness.
 
-- Address Declining Order Trends  
+- **Address Declining Order Trends**  
   The decrease in orders over time suggests a need to investigate potential causes, such
   as changing customer preferences or increased competition, and to implement
   strategies to sustain long-term growth.
