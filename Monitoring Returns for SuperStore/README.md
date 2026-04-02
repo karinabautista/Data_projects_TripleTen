@@ -1,48 +1,93 @@
-# Monitoring Returns for SuperStore 
+# Monitoring Returns for Superstore 
 By Karina Bautista 
 
 ## Project Overview
-A visual analysis of profit, return rates, and advertising performance to guide strategic business decisions.
+A visual analysis of return rates, sales performance, and regional trends to identify patterns in product returns and support data-driven business decisions.
 
 ## Tableau Public Link
 View my dashboard here: https://public.tableau.com/views/Sprint5Project_17713552686020/MonitoringReturns?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Alt text](Visuals/Monitoring-Returns-Dashboard.png)
 
-## Total Sales & Returns
-Returns in this dashboard are measured using return rate (units returned ÷ units sold), which allows for consistent comparison across products, sub-categories, and regions regardless of sales volume. This makes return rate the most effective metric for identifying items that may be underperforming or creating customer dissatisfaction.
+## Key Metric: Return Rate
+Returns are measured using return rate (units returned ÷ units sold) to allow for fair comparison across products, categories, and regions regardless of sales volume.
 
-The total number of returns can still provide useful context, particularly for high-volume products where even an average return rate may create operational strain. However, return rate remains the best indicator for pinpointing categories that warrant further investigation.
+While total returns provide helpful context, return rate is the most effective metric for identifying underperforming products and potential customer dissatisfaction.
 
-Products with elevated return rates may require deeper review to determine root causes such as product quality issues, misleading descriptions, sizing or compatibility problems, or misaligned customer expectations.
+Higher return rates may indicate:
 
-Here, you can see there is no specific trend tied to sale volume to return rate.
+- Product quality issues
+- Misleading or unclear product descriptions
+- Shipping or handling damage
+- Mismatch between product and customer expectations
+
+## Total Sales & Returns by Sub-Category
+
+There is no clear relationship between sales volume and return rate, meaning high-selling products are not always the ones driving returns.
+
+The highest-risk areas are sub-categories with both strong sales and elevated return rates, as they create the greatest financial and operational impact.
 
 ![Alt text](Visuals/Total-Sales-and-Returns-by-Sub-Category.png)
 
-## Returns Month Over Month
-You see a 20% increase in the return rate in August. When breaking it down by category, you can see the Office Supplies is the main contributor to this spike. 
+## Return Rates Month Over Month
+Return rates show a noticeable increase of approximately 20% in August, primarily driven by the Office Supplies category.
 
-You can check each category using the filter on the left side to see each categories breakdown and cumulative results. 
+This spike may suggest:
 
-Recommendation: Implement inventory quality checks before August shipments.
+- Seasonal demand patterns
+- Increased promotional activity
+- Operational strain during higher sales periods
+
+Even short-term increases in return rate can impact profitability due to reverse logistics and lost revenue.
 
 ![Alt text](Visuals/Returns-Month-Over-Month.png)
 
 ## Return Rate by Month per Region
-The West Coast shows higher return rates per category, especially in Office Supplies, than the other regions. This could indicate shipment issues when products go out West. 
+The West Coast consistently shows higher return rates, especially within Office Supplies.
 
-You can select specific categories and/or regions to help further narrow down the data and see each region's return data. 
+This pattern may indicate:
 
-Recommendation: Investigate West Coast shipping processes, starting with the highest-return states, to identify potential quality or delivery issues.
+- Shipping or fulfillment challenges
+- Longer delivery times
+- Regional differences in customer expectations or product usage
+
+While this suggests a logistics-related issue, further analysis would be needed to confirm the root cause.
 
 ![Alt text](Visuals/Return-Rate-by-Month-per-Region.png)
 
 ## Return Rate by State per Category
-California and Oregon stand out as the two states with the highest overall return rates. Because both are located on the West Coast, this regional pattern may suggest potential shipping challenges, delivery timelines, or customer expectation mismatches that warrant further investigation.
+California and Oregon have the highest overall return rates, reinforcing the regional trend seen in the West.
 
-Additionally, Mississippi and Nebraska show Office Supplies as their most returned category. This trend indicates a need for deeper analysis to determine underlying causes, such as product quality concerns, packaging damage during transit, or inconsistencies between product descriptions and customer expectations.
+Additionally:
 
-You can see each state's return rate breakdown by category. 
+- Office Supplies is the most returned category across multiple states
+- States like Mississippi and Nebraska also show elevated returns in this category
+
+These patterns suggest that returns may be driven by a mix of product-specific issues and regional factors.
 
 ![Alt text](Visuals/Return-Rate-by-State-per-Category.png)
+
+## Conclusions & Recommendations
+
+This analysis shows that returns are not evenly distributed across the business. Certain categories, time periods, and regions contribute more heavily to return activity.
+
+Office Supplies stands out as a key driver of return rate increases, including a significant spike in August. At the same time, the West Coast—particularly California and Oregon—consistently shows higher return rates, pointing to potential regional or logistical challenges.
+
+From a business perspective, returns directly impact profitability through lost revenue, additional handling costs, and inventory inefficiencies. Focusing on the highest-impact areas can help reduce both costs and customer dissatisfaction.
+
+**Recommendations**
+
+**Investigate high-return subcategories (Office Supplies):**
+Identify specific products contributing to returns and evaluate potential issues such as quality, packaging, or unclear product descriptions.
+
+**Analyze the August return spike:**
+Review seasonal trends, promotions, and fulfillment processes during this period to determine what may have caused the increase.
+
+**Evaluate West Coast shipping and fulfillment:**
+Assess delivery timelines, handling processes, and regional logistics to identify potential causes of higher return rates.
+
+**Prioritize high-impact products:**
+Focus on items with both high sales volume and high return rates, as they represent the greatest opportunity for cost reduction.
+
+**Improve customer expectations:**
+Enhance product descriptions, images, and details to reduce mismatches between what customers expect and what they receive.
