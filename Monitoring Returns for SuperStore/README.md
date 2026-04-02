@@ -75,7 +75,7 @@ Office Supplies stands out as a key driver of return rate increases, including a
 
 From a business perspective, returns directly impact profitability through lost revenue, additional handling costs, and inventory inefficiencies. Focusing on the highest-impact areas can help reduce both costs and customer dissatisfaction.
 
-**Recommendations**
+### **Recommendations**
 
 **Investigate high-return subcategories (Office Supplies):**
 Identify specific products contributing to returns and evaluate potential issues such as quality, packaging, or unclear product descriptions.
