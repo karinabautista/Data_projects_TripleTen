@@ -1,4 +1,5 @@
 # Customer Segmentation Analysis for Zomato 
+By Karina Bautista
 
 This project explores Zomato’s customer base to better understand who their customers are,
 how they behave, and how they can be grouped into meaningful segments. By analyzing
